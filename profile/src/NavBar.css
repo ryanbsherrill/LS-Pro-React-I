@@ -1,7 +1,25 @@
 .navbar {
-  height: 100px;
-  background-color: whitesmoke;
+  height: 150px;
+  background-color: lightgoldenrodyellow;
   font-size: 18px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
+  color: purple;
+  margin-bottom: 20px;
+}
+img {
+  display: block;
+  margin: auto;
+}
+p {
+  padding-top: 30px;
+  font-size: 22px;
+  max-width: 600px;
+  margin: auto;
+}
+button {
+  height: 50px;
+  width: 200px;
+  font-size: 22px;
+  background-color: aquamarine;
 }
